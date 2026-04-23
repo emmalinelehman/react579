@@ -37,7 +37,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="todo-app">
-        <h1>✓ Todo App</h1>
+        <h1>✓ Emmaline's Todo List</h1>
 
         <div className="input-group">
           <input
